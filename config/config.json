@@ -1,6 +1,0 @@
-
-{
-    "packet_capture_count": 50,
-    "alert_threshold": 100,
-    "malicious_ips": ["192.0.2.1", "198.51.100.2"]
-}
